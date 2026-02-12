@@ -32,3 +32,19 @@ function show(){
 
  //   console.log(blockVar);
 //console.log(blockLet);
+
+//Practice Task 
+{
+    let carLet =1;
+    const  carConst="Toyota";
+    var carVar="Bakkie";
+    
+    //reassigning 
+    carVar=" reassign var";
+    carLet="reassign let";
+    //carConst="reassign const";
+
+    console.log(carVar);
+    console.log(carLet);
+    console.log(carConst);
+}
